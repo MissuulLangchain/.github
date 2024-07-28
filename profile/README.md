@@ -1,5 +1,5 @@
 ## 0. Data Preprocessing
- - [ ] Chunk Optimization
+ - [x] Chunk Optimization
  - [ ] Embedding Model Optimization (DAPT, TAPT, etc .. )
  - [ ] Make MetaData
  - [ ] RAFT
